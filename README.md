@@ -15,6 +15,10 @@ http://localhost:5601/app/home#/
     user: elastic
     password: changeme
 
+to add indexes
+stack management > kibana > index patterns
+Create Index Patterns
+name: logstash
 
 
 ## Springboot app
